@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stojanche Oreshkov</h1>
 <h3 align="center">A passionate fullstack/mobile developer from Macedonia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oreskovs" alt="oreskovs" /></a> </p>
-
 - 🔭 I’m currently working on **NodeJS**
 
 - 🌱 I’m currently learning **NodeJS**
