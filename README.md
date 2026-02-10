@@ -1,34 +1,53 @@
-# Hi there, I'm Stojance! 👋
+# ⚡ Welcome to my Code Forge | Stojance Oreskov ⚡
 
-### 🚀 Full-Stack | Mobile Developer 
-Passionate about building modern, scalable, and beautiful digital experiences, currently specializing in **Flutter** and **Node.js**.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=oreskovs&label=Profile%20views&color=0e75b6&style=flat" alt="oreskovs" />
+</p>
 
----
-
-### 🛠️ Technologies & Tools
-
-| Category | Tools |
-| :--- | :--- |
-| **Frontend** | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) |
-| **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) |
-| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) |
-| **Mobile** | ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) |
+### 👨‍💻 About Me
+- 🎓 **Computer Science & Engineering** student.
+- 📱 Building sleek mobile apps with **Flutter & Dart**.
+- 🌐 Crafting robust backends with **Node.js & Express**.
+- 🛠️ Current focus: Mastering **State Management** and **Cloud Deployments**.
 
 ---
 
-### 📈 GitHub Stats
+### 🚀 Technical Arsenal
 
-![Stojance's GitHub stats](https://github-readme-stats.vercel.app/api?username=oreskovs&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oreskovs&layout=compact&theme=tokyonight)
+#### 📱 Mobile & Language
+<p align="left">
+  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original-wordmark.svg" alt="dart" width="40" height="40"/> </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+  <a href="https://www.csharp.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+</p>
+
+#### 🌐 Web Development (MERN & More)
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+</p>
+
+#### 🛠️ Tools & DevOps
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.figma.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+</p>
 
 ---
 
-### 🔥 Currently Working On
-* 📱 **Crypto Tracker**: A real-time cryptocurrency tracking app built with Flutter.
-* 🌐 Enhancing my Full-Stack skills with **ExpressJS** and **React**.
+### 📊 GitHub Activity Snapshot
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=oreskovs&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oreskovs&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 ---
 
-### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/stojance-oreskov-b2a165356)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=react&logoColor=white)](https://oreskov.vercel.app/)
+### 🔗 Let's Build Something Together
+<p align="left">
+<a href="https://linkedin.com/in/stojance-oreskov-b2a165356" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stojance-oreskov" height="30" width="40" /></a>
+<a href="https://oreskov.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="portfolio" height="30" width="40" /></a>
+</p>
