@@ -8,7 +8,7 @@
 - 🎓 **Computer Science & Engineering** student.
 - 📱 Building sleek mobile apps with **Flutter & Dart**.
 - 🌐 Crafting robust backends with **Node.js & Express**.
-- 🛠️ Current focus: Mastering **State Management** and **Cloud Deployments**.
+- 🛠️ Current focus: Mastering **Cloud Deployments**.
 
 ---
 
@@ -20,13 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" width="50" height="50"/>
 </p>
 
-### 🌐 Web & Backend
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="50" height="50"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="50" height="50"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50"/>
-</p>
+---
 
 ### 💻 Languages & Tools
 <p align="left">
@@ -38,11 +32,10 @@
 
 ---
 
-### 📊 GitHub Activity Snapshot
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=oreskovs&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oreskovs&layout=compact&theme=radical&hide_border=true" />
-</p>
+### 🛠️ Current Focus & Journey
+- 🏗️ Building scalable apps with **Next.js** and **Server Actions**.
+- 📱 Optimizing **Flutter** apps for performance (just finished a [Crypto Tracker](https://github.com/oreskovs/crypto_tracker)!).
+- 🔐 Diving deep into **Auth.js** and **JWT** for secure backends.
 
 ---
 
