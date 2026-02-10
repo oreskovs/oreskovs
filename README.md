@@ -1,81 +1,34 @@
-# Hi, I'm Stojance 👋
-### 💻 Full-Stack | Mobile Developer | Passionate about building modern, scalable, and beautiful digital experiences
+# Hi there, I'm Stojance! 👋
 
----
-
-Welcome to my GitHub profile!  
-I love experimenting with new technologies, building creative solutions, and contributing to open-source projects.
-
----
-
-### 🧠 About Me
-
-- 💡 I enjoy exploring different programming paradigms and frameworks  
-- 🚀 Constantly improving my skills in **frontend** and **backend** development  
-- 🎯 Currently learning more about **ExpressJS** and **backend development**  
-- 🌍 Based in North Macedonia  
+### 🚀 Full-Stack | Mobile Developer 
+Passionate about building modern, scalable, and beautiful digital experiences, currently specializing in **Flutter** and **Node.js**.
 
 ---
 
 ### 🛠️ Technologies & Tools
 
-<p align="left">
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend Technologies" />
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Technologies" />
-  <!-- Mobile -->
-  <img src="https://skillicons.dev/icons?i=dart,flutter" alt="Mobile Technologies" />
-  <!-- Others -->
-  <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
-</p>
-
----
-
-### 🚀 Currently Working On
-- Building responsive and fast web apps with **React** and **ExpressJS**
-- Experimenting with **Flutter** for cross-platform mobile development
-- Enhancing backend performance with **NodeJS**
-- Exploring **API integrations** and **cloud deployments**
-
----
-
-### 📌 Pinned Projects
-
-<p align="center">
-  <a href="https://github.com/oreskovs/React-Projects/tree/main/chef_claude_app" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=oreskovs&repo=React-Projects&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/oreskovs/C-Sharp/tree/main/ProductsSortingApp" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=oreskovs&repo=C-Sharp&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/oreskovs/Dart-Flutter-Projects/tree/main/MealsApp" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=oreskovs&repo=Dart-Flutter-Projects&theme=tokyonight" />
-  </a>
-</p>
+| Category | Tools |
+| :--- | :--- |
+| **Frontend** | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) |
+| **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) |
+| **Mobile** | ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) |
 
 ---
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oreskovs&show_icons=true&theme=tokyonight" alt="GitHub stats" width="49%" />
-</p>
+![Stojance's GitHub stats](https://github-readme-stats.vercel.app/api?username=oreskovs&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oreskovs&layout=compact&theme=tokyonight)
 
 ---
 
-### 🌐 Connect With Me
+### 🔥 Currently Working On
+* 📱 **Crypto Tracker**: A real-time cryptocurrency tracking app built with Flutter.
+* 🌐 Enhancing my Full-Stack skills with **ExpressJS** and **React**.
 
-<p align="left">
-  <a href="https://oreskovs.github.io/oreskov/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/stojance-oreskov-b2a165356/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/oreskovs" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.instagram.com/oreskov.s/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:oreskov.stojance1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+---
 
-<p align="center">
-  <i>Thanks for stopping by! Feel free to connect or check out my projects 👇</i><br><br>
-  <img src="https://komarev.com/ghpvc/?username=oreskovs&style=flat-square&color=blue" alt="Profile views" />
-</p>
+### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/stojance-oreskov-b2a165356)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=react&logoColor=white)](https://oreskov.vercel.app/)
